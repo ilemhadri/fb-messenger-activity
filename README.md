@@ -20,6 +20,7 @@ git clone https://github.com/sqren/fb-sleep-stats.git
 ```
 
 **Configuration**
+
 Open the source code folder:
 ```
 cd fb-messenger-activity
@@ -49,4 +50,3 @@ optional arguments:
                         the user's full name
   --all                 generate reports for all users on file
 ```
-
