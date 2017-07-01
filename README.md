@@ -5,8 +5,7 @@ I do not encourage personal use of this tool. I have decided to publish it for e
 
 Read the blog post:    https://ilemhadri.wordpress.com/2017/07/01/visualizing-your-friends-activity-on-messenger/
 
-![Messenger activity screenshot]
-(https://i0.wp.com/ilemhadri.files.wordpress.com/2017/07/log.png?w=840)
+![Messenger activity screenshot](https://i0.wp.com/ilemhadri.files.wordpress.com/2017/07/log.png)
 
 ## Installation
 
