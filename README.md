@@ -1,9 +1,7 @@
-https://github.com/sqren/fb-sleep-stats/blob/master/README.md
-
 #fb-messenger-activity: Watching your friends' Messenger activity
 
-##Disclaimer
-Disclaimer: Let's be clear: I do not encourage personal use of this tool. I have decided to publish it for educational purposes only. Most of my friends and family are simply not aware of how much of their private information is being shared online without their knowledge. As such, the goal of this utility is certainly not to spy on your friends but to raise awareness about privacy concerns on Facebook.
+## Disclaimer
+I do not encourage personal use of this tool. I have decided to publish it for educational purposes only. Most of my friends and family are simply not aware of how much of their private information is being shared online without their knowledge. As such, the goal of this utility is certainly not to spy on your friends but to raise awareness about privacy concerns on Facebook.
 
 Read the blog post:    https://ilemhadri.wordpress.com/2017/07/01/visualizing-your-friends-activity-on-messenger/
 
@@ -28,7 +26,8 @@ Open the source code folder:
 cd fb-messenger-activity
 ```
 
-Setup the database and save your Facebook login credentials:
+Setup the database and save your Facebook login credentials.
+*Note* You may need to install a compatible selenium webbrowser in case "chromedriver.exe" is not compatible with your OS.
 ```
 python init.py
 ```
