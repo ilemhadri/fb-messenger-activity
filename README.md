@@ -1,4 +1,4 @@
-#fb-messenger-activity: Watching your friends' Messenger activity
+# fb-messenger-activity: Watching your friends' Messenger activity
 
 ## Disclaimer
 I do not encourage personal use of this tool. I have decided to publish it for educational purposes only. Most of my friends and family are simply not aware of how much of their private information is being shared online without their knowledge. As such, the goal of this utility is certainly not to spy on your friends but to raise awareness about privacy concerns on Facebook.
@@ -27,7 +27,7 @@ cd fb-messenger-activity
 ```
 
 Setup the database and save your Facebook login credentials.
-*Note* You may need to install a compatible selenium webbrowser in case "chromedriver.exe" is not compatible with your OS.
+*Note:* You may need to install a compatible selenium webbrowser in case "chromedriver.exe" is not compatible with your OS.
 ```
 python init.py
 ```
