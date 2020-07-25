@@ -1,14 +1,8 @@
-# fb-messenger-activity: Watching your friends' Messenger activity
-
-## Disclaimer
-#### 1)
-I do not encourage personal use of this tool. I have decided to publish it for educational purposes only. Most of my friends and family are simply not aware of how much of their private information is being shared online without their knowledge. As such, the goal of this utility is certainly not to spy on your friends but to raise awareness about privacy concerns on Facebook.
-#### 2)
-This tool has not been updated since June 2017. The author does NOT intend to keep it up to date in case of updates to the Messenger internals.
-
-Read the blog post:    https://ilemhadri.wordpress.com/2017/07/01/visualizing-your-friends-activity-on-messenger/
+# fb-messenger-activity: Monitoring your friends' activity on Messenger
 
 ![Messenger activity screenshot](https://i0.wp.com/ilemhadri.files.wordpress.com/2017/07/log.png)
+
+Read the blog post: https://ilemhadri.wordpress.com/2017/07/01/visualizing-your-friends-activity-on-messenger/
 
 ## Installation
 
@@ -53,3 +47,10 @@ optional arguments:
                         the user's full name
   --all                 generate reports for all users on file
 ```
+
+
+## Disclaimer
+#### 1)
+I do not encourage personal use of this tool. I have decided to publish it for educational purposes only. Most of my friends and family are simply not aware of how much of their private information is being shared online without their knowledge. As such, the goal of this utility is certainly not to spy on your friends but to raise awareness about privacy concerns on Facebook.
+#### 2)
+This tool has not been updated since June 2017. The author does NOT intend to keep it up to date in case of updates to the Messenger internals.
